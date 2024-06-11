@@ -1,0 +1,4 @@
+train: C:\Users\mkiyak\Downloads\Yolov8_Segmentation_Custom\train
+val: C:\Users\mkiyak\Downloads\Yolov8_Segmentation_Custom\test
+nc: 1
+names: ["vein"]
